@@ -1,0 +1,18 @@
+    .messages{
+        height: 300px;
+        scroll-behavior: smooth;
+    }
+    ::-webkit-scrollbar {
+        width: 8px;
+      }
+    ::-webkit-scrollbar-track {
+        background: #311b92;
+    }
+    ::-webkit-scrollbar-thumb {
+        background: #888;
+    }
+    .messageBox{
+        border-radius: 5px;
+        padding: 15px;
+        text-align: center;
+    }

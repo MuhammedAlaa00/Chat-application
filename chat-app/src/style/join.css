@@ -1,0 +1,38 @@
+.main-box{
+    height: 100vh;
+}
+/* .child-box 
+{
+    background-color: black;
+    padding: 100px;
+    border-radius: 5px;
+} */
+.join-head {
+    color: #000;
+}
+.joinInput{
+    border: 1px solid #000 !important;
+    outline: none !important;
+    box-shadow: none !important;
+    border-radius: 0;
+    color: #000 !important;
+    font-weight: 700 !important;
+}
+label {
+    font-weight: 800;
+}
+.btn{
+    width: 100px;
+    color: #000;
+    font-weight: bolder;
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: blueviolet;
+    border: 1px solid transparent;
+    border-radius: 5px !important;
+}
+.btn:hover,
+.btn:focus,
+.btn:active {
+    color: #fff;
+}
