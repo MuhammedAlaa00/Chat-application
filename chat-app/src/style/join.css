@@ -21,18 +21,3 @@
 label {
     font-weight: 800;
 }
-.btn{
-    width: 100px;
-    color: #000;
-    font-weight: bolder;
-    outline: none !important;
-    box-shadow: none !important;
-    background-color: blueviolet;
-    border: 1px solid transparent;
-    border-radius: 5px !important;
-}
-.btn:hover,
-.btn:focus,
-.btn:active {
-    color: #fff;
-}

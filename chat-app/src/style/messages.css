@@ -1,6 +1,7 @@
     .messages{
         height: 300px;
         scroll-behavior: smooth;
+        scrollbar-3dlight-color: #311b92;
     }
     ::-webkit-scrollbar {
         width: 8px;
@@ -16,3 +17,6 @@
         padding: 15px;
         text-align: center;
     }
+    .messages button{
+    background-color: #311b92 !important;
+} 

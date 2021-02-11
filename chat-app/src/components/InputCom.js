@@ -9,7 +9,8 @@ function InputCom({setMessage  , sendMessage}) {
     const useStyles = makeStyles((style)=> ({
         Input:{
             height: "3rem",
-            paddingLeft : style.spacing(4)
+            paddingLeft : style.spacing(4),
+            borderRadius:'0'
         }
     }))
     const classes = useStyles(); 

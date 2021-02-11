@@ -13,7 +13,7 @@ function Messages({messages ,  name , setMessage , sendMessage}) {
                     Messages  
             }
         </ScrollToBottom>
-        <InputCom setMessage={setMessage} sendMessage={sendMessage} ></InputCom>
+        <InputCom setMessage={setMessage} sendMessage={sendMessage}></InputCom>
     </Paper>
     )
 }
